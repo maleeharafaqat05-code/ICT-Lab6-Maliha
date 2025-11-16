@@ -1,0 +1,12 @@
+Git is a version control system that tracks the history of our code.
+GitHub is an online platform where we can store our Git repositories.
+
+Git works on our local computer.
+GitHub is used for online backup and collaboration.
+
+Main Commands:
+- git clone: Download a repository
+- git add: Add changes
+- git commit: Save changes
+- git push: Upload to GitHub
+- git pull: Download updates
