@@ -9,4 +9,5 @@ Main Commands:
 - git add: Add changes
 - git commit: Save changes
 - git push: Upload to GitHub
-- git pull: Download updates
+- git pull: Download update
+I have added this line to perform task 7.
